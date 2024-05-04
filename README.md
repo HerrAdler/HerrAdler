@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adler</h1>
-<h3 align="center">A developer from Germany.</h3>
+<h3 align="center">Someone from Germany.</h3>
 
 - 📫 How to reach me? Discord: **SOON**
 
